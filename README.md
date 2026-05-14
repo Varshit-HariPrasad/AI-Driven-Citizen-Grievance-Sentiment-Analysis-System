@@ -1,0 +1,2 @@
+# AI-Driven-Citizen-Grievance-Sentiment-Analysis-System
+An AI-Driven Citizen Grievance &amp; Sentiment Analysis System is a smart platform that collects and analyzes public complaints using AI and NLP. It classifies grievances, detects public sentiment, prioritizes urgent issues, and provides insights through dashboards, helping authorities improve response time, transparency, and citizen satisfaction.
