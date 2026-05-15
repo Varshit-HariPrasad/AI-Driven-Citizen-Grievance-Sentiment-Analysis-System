@@ -294,11 +294,11 @@ The goal of this project is to:
 
 * GitHub:
 * Varshit - [https://github.com/Varshit-HariPrasad](https://github.com/Varshit-HariPrasad) 
-* Heny -
+* Heny - https://github.com/stunning-honey31
 
 * LinkedIn:
 * Varshit - [https://www.linkedin.com/in/varshithariprasad/](https://www.linkedin.com/in/varshithariprasad/)
-* Heny - 
+* Heny - https://www.linkedin.com/in/heny-mistry-3762923b1/
 
 ---
 
